@@ -1,5 +1,0 @@
-Hallo Welt.
-
-Das ist bloß ein Test für GIT.
-
-Das wird ein weiterer Test.
