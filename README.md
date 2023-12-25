@@ -1,4 +1,4 @@
-# B1tBenders' Home
+# b1tbenders' Home
 
 - 👋 Hi, I’m @b1tbender
 - 👀 I’m interested in ...
