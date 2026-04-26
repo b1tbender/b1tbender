@@ -10,13 +10,13 @@
 ## 🛡️ MISSION
 **Enterprise-Security ohne Kompromisse.** Mein Fokus liegt auf dem Aufbau gehärteter Infrastrukturen mit Open-Source-Technologien. Ich zeige, wie man mit Rocky Linux, Fedora und einer soliden Prise Verstand Sicherheits-Architekturen baut, die keine teuren Blackbox-Lizenzen benötigen. 
 
-Kein Marketing-Sprech, kein Snakeoil – nur sauberes Engineering und Transparenz.
+Kein Marketing-Sprech, kein $nakeoil, kein Bull$h!t – nur sauberes Engineering und Transparenz.
 
 ### 🏗️ TECH STACK & FOCUS
-- **Operating Systems:** Rocky Linux (Server Hardening) & Fedora (Development)
+- **Operating Systems:** Rocky Linux 8/9/10 (Server Hardening) & Fedora (Development)
 - **Infrastructure:** Ansible (Automation), GNS3 (Virtual Lab Environments)
-- **Security Core:** LUKS2 & NBDE (Clevis/Tang), TPM2, SELinux, Keylime
-- **Monitoring:** AIDE, Auditd & Log-Analysis
+- **Security Core:** LUKS2 & NBDE (Clevis/Tang),IMA, TPM2, SELinux (always enforcing!), Keylime
+- **Monitoring:** AIDE, Auditd & FSS-Sealed-Logs
 
 ---
 
